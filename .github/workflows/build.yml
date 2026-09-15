@@ -17,6 +17,8 @@ jobs:
   build-macos:
     name: Build macOS App
     runs-on: macos-latest
+    permissions:
+      contents: read
     strategy:
       matrix:
         arch: [arm64, x86_64]
@@ -59,6 +61,8 @@ jobs:
     needs: build-macos
     if: startsWith(github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Download all artifacts
