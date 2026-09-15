@@ -1,0 +1,1032 @@
+([('PIL/.dylibs/libXau.6.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libXau.6.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libavif.16.4.1.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libavif.16.4.1.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libbrotlicommon.1.2.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libbrotlicommon.1.2.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libbrotlidec.1.2.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libbrotlidec.1.2.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libfreetype.6.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libfreetype.6.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libharfbuzz.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libharfbuzz.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libjpeg.62.4.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libjpeg.62.4.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/liblcms2.2.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/liblcms2.2.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/liblzma.5.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/liblzma.5.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libopenjp2.2.5.4.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libopenjp2.2.5.4.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libpng16.16.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libpng16.16.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libsharpyuv.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libsharpyuv.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libtiff.6.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libtiff.6.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebp.7.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libwebp.7.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebpdemux.2.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libwebpdemux.2.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebpmux.3.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libwebpmux.3.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libxcb.1.1.0.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libxcb.1.1.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   'BINARY'),
+  ('PIL/_avif.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_avif.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imaging.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_imaging.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingcms.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_imagingcms.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingft.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_imagingft.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingmath.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_imagingmath.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingtk.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_imagingtk.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PIL/_webp.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PIL/_webp.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('PyQt6/Qt6/lib/QtCore.framework/QtCore',
+   'Versions/Current/QtCore',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtCore.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/QtDBus',
+   'Versions/Current/QtDBus',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtDBus.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/QtGui', 'Versions/Current/QtGui', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtGui.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/QtNetwork',
+   'Versions/Current/QtNetwork',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtNetwork.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/QtPdf', 'Versions/Current/QtPdf', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtPdf.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/QtSvg', 'Versions/Current/QtSvg', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtSvg.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/QtWidgets',
+   'Versions/Current/QtWidgets',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/lib/QtWidgets.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/plugins/generic/libqtuiotouchplugin.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/generic/libqtuiotouchplugin.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/iconengines/libqsvgicon.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/iconengines/libqsvgicon.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqgif.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqgif.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqicns.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqicns.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqico.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqico.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqjpeg.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqjpeg.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqmacheif.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqmacheif.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqmacjp2.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqmacjp2.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqpdf.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqpdf.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqsvg.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqsvg.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqtga.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqtga.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqtiff.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqtiff.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqwbmp.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqwbmp.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqwebp.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/imageformats/libqwebp.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqcocoa.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/platforms/libqcocoa.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqminimal.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/platforms/libqminimal.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqoffscreen.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/platforms/libqoffscreen.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/styles/libqmacstyle.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/plugins/styles/libqmacstyle.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/translations/qt_ar.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_bg.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ca.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_cs.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_da.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_da.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_de.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_en.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_es.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fa.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_fa.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fi.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_fi.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_gd.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_gd.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_gl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_gl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_he.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_he.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ar.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_bg.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ca.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_cs.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_da.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_da.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_de.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_en.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_es.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_fr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_gl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_gl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_hr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_hu.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_it.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ja.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ka.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ko.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_nl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_nn.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_pl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_pt_BR.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ru.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_sk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_sl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_sl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_sv.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_sv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_tr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_uk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_zh_CN.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_zh_TW.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_hr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_hu.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_it.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ja.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ka.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ko.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_lg.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_lg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_lt.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_lt.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_lv.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_lv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_nl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_nn.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pt_BR.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pt_PT.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_pt_PT.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ru.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_sl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sv.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_sv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_tr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_uk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_zh_CN.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_zh_TW.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ar.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_bg.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ca.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_cs.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_da.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_da.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_de.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_en.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_es.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fa.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fi.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_gd.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_he.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_he.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_hr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_hu.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_it.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ja.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ka.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ko.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_lg.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_lg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_lv.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_nl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_nn.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_pl.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_pt_BR.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ru.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_sk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_sv.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_sv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_tr.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_uk.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_zh_CN.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_zh_TW.qm',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/Qt6/translations/qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/QtCore.abi3.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/QtCore.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/QtDBus.abi3.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/QtDBus.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/QtGui.abi3.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/QtGui.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/QtWidgets.abi3.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/QtWidgets.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/sip.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/PyQt6/sip.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('Python', 'Python.framework/Versions/3.10/Python', 'SYMLINK'),
+  ('Python.framework/Python', 'Versions/Current/Python', 'SYMLINK'),
+  ('Python.framework/Resources', 'Versions/Current/Resources', 'SYMLINK'),
+  ('Python.framework/Versions/3.10/Python',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/Python',
+   'BINARY'),
+  ('Python.framework/Versions/3.10/Resources/Info.plist',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/Resources/Info.plist',
+   'DATA'),
+  ('Python.framework/Versions/Current', '3.10', 'SYMLINK'),
+  ('QtCore', 'PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore', 'SYMLINK'),
+  ('QtDBus', 'PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus', 'SYMLINK'),
+  ('QtGui', 'PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui', 'SYMLINK'),
+  ('QtNetwork',
+   'PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'SYMLINK'),
+  ('QtPdf', 'PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf', 'SYMLINK'),
+  ('QtSvg', 'PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg', 'SYMLINK'),
+  ('QtWidgets',
+   'PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'SYMLINK'),
+  ('base_library.zip',
+   '/Volumes/文件小助手/图书集成库/code/build/图书库浏览器/base_library.zip',
+   'DATA'),
+  ('fontTools/misc/bezierTools.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/fontTools/misc/bezierTools.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('fontTools/varLib/iup.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/fontTools/varLib/iup.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('libXau.6.dylib', 'PIL/.dylibs/libXau.6.dylib', 'SYMLINK'),
+  ('libavif.16.4.1.dylib', 'PIL/.dylibs/libavif.16.4.1.dylib', 'SYMLINK'),
+  ('libbrotlicommon.1.2.0.dylib',
+   'PIL/.dylibs/libbrotlicommon.1.2.0.dylib',
+   'SYMLINK'),
+  ('libbrotlidec.1.2.0.dylib',
+   'PIL/.dylibs/libbrotlidec.1.2.0.dylib',
+   'SYMLINK'),
+  ('libcrypto.3.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/openssl@3/lib/libcrypto.3.dylib',
+   'BINARY'),
+  ('libexpat.1.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/expat/lib/libexpat.1.dylib',
+   'BINARY'),
+  ('libfreetype.6.dylib', 'PIL/.dylibs/libfreetype.6.dylib', 'SYMLINK'),
+  ('libharfbuzz.0.dylib', 'PIL/.dylibs/libharfbuzz.0.dylib', 'SYMLINK'),
+  ('libjpeg.62.4.0.dylib', 'PIL/.dylibs/libjpeg.62.4.0.dylib', 'SYMLINK'),
+  ('liblcms2.2.dylib', 'PIL/.dylibs/liblcms2.2.dylib', 'SYMLINK'),
+  ('liblzma.5.dylib', 'PIL/.dylibs/liblzma.5.dylib', 'SYMLINK'),
+  ('libmpdec.4.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/mpdecimal/lib/libmpdec.4.dylib',
+   'BINARY'),
+  ('libmupdf.dylib', 'pymupdf/libmupdf.dylib', 'SYMLINK'),
+  ('libmupdfcpp.so', 'pymupdf/libmupdfcpp.so', 'SYMLINK'),
+  ('libopenjp2.2.5.4.dylib', 'PIL/.dylibs/libopenjp2.2.5.4.dylib', 'SYMLINK'),
+  ('libpng16.16.dylib', 'PIL/.dylibs/libpng16.16.dylib', 'SYMLINK'),
+  ('libsharpyuv.0.dylib', 'PIL/.dylibs/libsharpyuv.0.dylib', 'SYMLINK'),
+  ('libssl.3.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/openssl@3/lib/libssl.3.dylib',
+   'BINARY'),
+  ('libtiff.6.dylib', 'PIL/.dylibs/libtiff.6.dylib', 'SYMLINK'),
+  ('libwebp.7.dylib', 'PIL/.dylibs/libwebp.7.dylib', 'SYMLINK'),
+  ('libwebpdemux.2.dylib', 'PIL/.dylibs/libwebpdemux.2.dylib', 'SYMLINK'),
+  ('libwebpmux.3.dylib', 'PIL/.dylibs/libwebpmux.3.dylib', 'SYMLINK'),
+  ('libxcb.1.1.0.dylib', 'PIL/.dylibs/libxcb.1.1.0.dylib', 'SYMLINK'),
+  ('libz.1.3.1.zlib-ng.dylib',
+   'PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   'SYMLINK'),
+  ('lxml/_elementpath.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/_elementpath.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/builder.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/builder.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/etree.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/etree.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/html/_difflib.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/html/_difflib.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/html/diff.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/html/diff.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/isoschematron/resources/rng/iso-schematron.rng',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/rng/iso-schematron.rng',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/RNG2Schtrn.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_dsdl_include.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/isoschematron/resources/xsl/iso-schematron-xslt1/readme.txt',
+   'DATA'),
+  ('lxml/objectify.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/objectify.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lxml/sax.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/lxml/sax.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('pymupdf/_extra.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/pymupdf/_extra.so',
+   'EXTENSION'),
+  ('pymupdf/_mupdf.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/pymupdf/_mupdf.so',
+   'EXTENSION'),
+  ('pymupdf/libmupdf.dylib',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/pymupdf/libmupdf.dylib',
+   'BINARY'),
+  ('pymupdf/libmupdfcpp.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/lib/python3.10/site-packages/pymupdf/libmupdfcpp.so',
+   'BINARY'),
+  ('python3.10/lib-dynload/_asyncio.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_asyncio.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_bisect.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_bisect.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_blake2.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_blake2.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_bz2.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_bz2.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_cn.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_cn.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_hk.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_iso2022.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_iso2022.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_jp.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_jp.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_kr.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_kr.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_codecs_tw.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_codecs_tw.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_contextvars.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_contextvars.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_csv.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_csv.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_ctypes.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_ctypes.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_datetime.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_datetime.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_decimal.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_decimal.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_elementtree.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_elementtree.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_hashlib.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_hashlib.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_heapq.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_heapq.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_json.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_json.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_lzma.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_lzma.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_md5.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_md5.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_multibytecodec.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_multibytecodec.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_multiprocessing.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_opcode.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_opcode.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_pickle.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_pickle.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_posixshmem.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_posixshmem.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_posixsubprocess.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_posixsubprocess.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_queue.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_queue.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_random.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_random.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_scproxy.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_scproxy.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_sha1.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha1.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_sha256.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha256.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_sha3.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha3.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_sha512.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_sha512.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_socket.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_socket.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_ssl.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_ssl.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_statistics.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_statistics.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/_struct.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/_struct.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/array.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/array.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/binascii.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/binascii.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/fcntl.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/fcntl.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/grp.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/grp.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/math.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/math.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/mmap.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/mmap.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/pyexpat.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/pyexpat.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/resource.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/resource.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/select.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/select.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/termios.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/termios.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/unicodedata.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/unicodedata.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('python3.10/lib-dynload/zlib.cpython-310-darwin.so',
+   '/Users/feixue/Library/Application Support/TRAE SOLO '
+   'CN/ModularData/ai-agent/vm/tools/opt/python@3.10/3.10.20_3/Frameworks/Python.framework/Versions/3.10/lib/python3.10/lib-dynload/zlib.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('图书库浏览器', '/Volumes/文件小助手/图书集成库/code/build/图书库浏览器/图书库浏览器', 'EXECUTABLE')],)
