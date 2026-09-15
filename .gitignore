@@ -1,0 +1,66 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+.Python
+*.egg-info/
+*.egg
+*.whl
+*.pkl
+*.pickle
+
+# ============ 构建产物（PyInstaller） ============
+build/
+dist/
+*.app
+*.dmg
+*.pkg
+*.spec.bak
+
+# ============ 二进制 / 资源文件 ============
+*.dylib
+*.bin
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.icns
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.djvu
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# ============ macOS ============
+.DS_Store
+._*
+*.swp
+*.swo
+
+# ============ IDE / 编辑器 ============
+.vscode/
+.idea/
+*~
+
+# ============ 运行时配置 ============
+.library_browser_config.json
+
+# ============ 日志 / 临时文件 ============
+*.log
+*.tmp
+*.bak

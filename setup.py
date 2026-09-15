@@ -4,7 +4,6 @@ py2app 构建脚本 - 将 library_browser.py 编译为 macOS .app 应用
 """
 
 from setuptools import setup
-
 APP = ['library_browser.py']
 DATA_FILES = []
 

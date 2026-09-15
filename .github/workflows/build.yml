@@ -1,0 +1,75 @@
+name: Build Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build-macos:
+    name: Build macOS App
+    runs-on: macos-latest
+    strategy:
+      matrix:
+        arch: [arm64, x86_64]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller
+
+      - name: Build app
+        run: |
+          python build.py --clean
+
+      - name: Create DMG (macOS only)
+        if: runner.os == 'macOS'
+        run: |
+          cd dist
+          hdiutil create -volname "图书库浏览器" -srcfolder "图书库浏览器.app" -ov -format UDZO "图书库浏览器-${{ matrix.arch }}.dmg"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 图书库浏览器-macOS-${{ matrix.arch }}
+          path: |
+            dist/图书库浏览器.app
+            dist/*.dmg
+
+  release:
+    name: Create Release
+    needs: build-macos
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            图书库浏览器-macOS-arm64/*.dmg
+            图书库浏览器-macOS-x86_64/*.dmg
+          generate_release_notes: true
+          draft: false
+          prerelease: false
